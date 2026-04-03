@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新生かわいいアイドル",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-04-03T12:42:14.342639Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新生かわいいアイドル",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_新生かわいいアイドル_BLUEGOATS.txt"
+    }
+  ]
+}
